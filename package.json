@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build": "env | cut -d= -f1 | sort"
+  }
+}
